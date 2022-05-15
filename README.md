@@ -1,6 +1,6 @@
 # DIC_TrafficLight
 DIC_TrafficLight
 
-![](https://imgur.com/a/osMER70)
+![](https://i.imgur.com/YPkK1Dh.png)
 
-![](https://imgur.com/pI2kFZD)
+![](https://i.imgur.com/fi19AjL.png)
